@@ -141,7 +141,7 @@ class MLGStream {
      */
     // true     = filter important info, faster
     // false    = raw response to access everything, slower
-    public function getStreamsUrl($filter)
+    private function getStreamsUrl($filter)
     {
         if ($filter)
         {
