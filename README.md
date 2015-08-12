@@ -5,7 +5,8 @@ Simple PHP class for interfacing with the MLG.tv streaming platform.
 The MLG.tv API is open-sourced software licensed under the [GPL2 license](http://opensource.org/licenses/GPL-2.0).
 
 # Contact
-- [@aRiseKairu](http://twitter.com/aRiseKairu)
+- [@Reflexgg](http://twitter.com/Reflexgg)
+- [@Kairuxo](http://twitter.com/Kairuxo)
 
 # Usage
 Initialize an instance of MLGStream using the channel username, then refresh the instance to load everything:
